@@ -3,6 +3,7 @@
 [View the Complete User Guide](https://github.com/amzn/amazon-payments-magento-plugin/wiki)
 or [Learn More about Amazon Payments] (https://payments.amazon.com/sp/magento)
 
+> If you are a merchant offering his service to European customers (Euro, Brittish Pounds), please refer to the [European solution for Magento 1](https://www.magentocommerce.com/magento-connect/login-and-pay-with-amazon-advanced-payment-apis-for-europe.html) 
 
 ### Pre-Requisites
 * Magento CE 1.6+ or EE 1.11+.
